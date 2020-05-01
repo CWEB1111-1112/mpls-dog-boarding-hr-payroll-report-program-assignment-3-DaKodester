@@ -1,0 +1,12 @@
+C:\Users\CPDri\Desktop\Assignment_3\bin\Debug\netcoreapp1.1\assignment_three.deps.json
+C:\Users\CPDri\Desktop\Assignment_3\bin\Debug\netcoreapp1.1\assignment_three.runtimeconfig.json
+C:\Users\CPDri\Desktop\Assignment_3\bin\Debug\netcoreapp1.1\assignment_three.runtimeconfig.dev.json
+C:\Users\CPDri\Desktop\Assignment_3\bin\Debug\netcoreapp1.1\assignment_three.dll
+C:\Users\CPDri\Desktop\Assignment_3\bin\Debug\netcoreapp1.1\assignment_three.pdb
+C:\Users\CPDri\Desktop\Assignment_3\obj\Debug\netcoreapp1.1\assignment_three.csprojAssemblyReference.cache
+C:\Users\CPDri\Desktop\Assignment_3\obj\Debug\netcoreapp1.1\assignment_three.csproj.CoreCompileInputs.cache
+C:\Users\CPDri\Desktop\Assignment_3\obj\Debug\netcoreapp1.1\assignment_three.AssemblyInfoInputs.cache
+C:\Users\CPDri\Desktop\Assignment_3\obj\Debug\netcoreapp1.1\assignment_three.AssemblyInfo.cs
+C:\Users\CPDri\Desktop\Assignment_3\obj\Debug\netcoreapp1.1\assignment_three.dll
+C:\Users\CPDri\Desktop\Assignment_3\obj\Debug\netcoreapp1.1\assignment_three.pdb
+C:\Users\CPDri\Desktop\Assignment_3\obj\Debug\netcoreapp1.1\assignment_three.genruntimeconfig.cache
